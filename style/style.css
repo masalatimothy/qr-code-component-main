@@ -1,0 +1,79 @@
+@font-face {
+    font-family: "outfit";
+    src: url("../fonts/Outfit-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "outfit-bold";
+    src: url("../fonts/Outfit-Bold.ttf") format("truetype");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    background-color: hsl(212, 45%, 89%);
+    height: 100vh;
+    width: 100vw;
+}
+
+main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+    width: 320px;
+
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-family: "outfit-bold", sans-serif;
+    font-size: 20px;
+    padding: 20px 10px 10px ;
+    text-align: center;
+}
+
+p {
+    color: hsl(218, 44%, 22%);
+    font-family: "outfit", sans-serif;
+    font-size: 15px;
+    line-height: 22px;
+    padding: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.attribution { 
+    color: hsl(216, 15%, 48%);
+    font-family: "outfit", sans-serif;
+    font-size: 11px; 
+    line-height: 18px;
+    text-align: center; 
+    text-decoration: none;
+}
+
+.attribution a { 
+    color: hsl(216, 15%, 48%); 
+    padding-top: 40px;
+    text-decoration: none;
+}
+
+.attribution a:hover {
+    color: hsl(218, 44%, 22%);
+    text-decoration: underline;
+}
+
