@@ -33,6 +33,7 @@
  
  - Semantic HTML5 markup
  - CSS custom properties
+ - Flexbox
  - Responsive design
  
  ### What I learned
@@ -41,7 +42,7 @@
  
  ### Continued development
  
- This project helped me to rate  or test my studies until now, so I can continue my learning path, to learn css grid layout, flexbox, a programing language and others tools
+ This project helped me to rate  or test my studies until now, so I can continue my learning path, improving my skills by learning new tools
  
  ### Useful resources
  
@@ -49,7 +50,7 @@
  
  ## Author
  
- - GitHub - [masala timothy](https://www.github.io/masalatimothy)
+ - GitHub - [masala mutombo timothy](https://www.github.io/masalatimothy)
  - Frontend Mentor - [@masalatimothy](https://www.frontendmentor.io/profile/masalatimothy)
  
  ## Acknowledgments
